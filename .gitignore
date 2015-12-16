@@ -57,6 +57,7 @@ target/
 *.bak
 *.tmp
 *.*~
+migrations/
 
 # virtualenv
 ggawesome-venv/
